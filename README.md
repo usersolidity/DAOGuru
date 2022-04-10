@@ -12,7 +12,8 @@
 
 **Subscription service:**  DAOs can create their periodic subscription service and accept recurring payments from their clients. We have used a superfluid service to stream subscription payments from buyers to sellers. 
 
-![Screenshot 2022-04-03 at 11 52 22 PM](https://user-images.githubusercontent.com/45895007/162613871-2d6d6b1c-9b99-4694-bdc7-c4b5ccdd0a80.png)
+ ![Screenshot 2022-04-10 at 4 02 13 PM](https://user-images.githubusercontent.com/45895007/162614033-9d1f9ac3-23cd-489b-a9da-338384287abc.png)
+
 
 
 **Invoice:**  DAOs can create invoices and collect payment via the Invoice “Pay Now” button.
