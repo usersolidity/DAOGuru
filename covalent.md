@@ -3,8 +3,7 @@
 
 https://github.com/DAO-Guru/DAOGuru/blob/master/src/pages/Invoice.js
 
-```javascrept 
-
+```javascript  
   const covalent = Moralis.Plugins.covalent; 
   async function getInvoiceData() { 
       const ids = [...tokenid];
@@ -53,5 +52,4 @@ https://github.com/DAO-Guru/DAOGuru/blob/master/src/pages/Invoice.js
       }
       setMeta(metadata);
   }, [tokenid]);
-
 ```
