@@ -1,4 +1,4 @@
-# Trustified_Network
+# DAOGuru
 
 
 For React Tab using react js YT video (without  MUI)  : https://www.youtube.com/watch?v=WkREeDy2WQ4&t=54s
