@@ -49,3 +49,6 @@ export default function LendingHeader() {
   }
 
 ```
+
+![Screenshot 2022-04-10 at 12 40 09 PM](https://user-images.githubusercontent.com/45895007/162614088-5b16bbab-7de4-4d09-9938-5053d06aa200.png)
+
